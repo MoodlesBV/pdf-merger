@@ -1,13 +1,17 @@
 {
-    "name": "clegginabox/pdf-merger",
-    "description": "PDF File Merger for PHP5",
+    "name": "moodlesbv/pdf-merger",
+    "description": "PDF File Merger for PHP7",
     "require": {
-        "itbz/fpdi": "dev-master"
+        "setasign/fpdi-fpdf": "dev-master"
     },
     "authors": [
         {
             "name": "Paul Clegg",
             "email": "paul@clegginabox.co.uk"
+        },
+        {
+            "name": "Martijn de Ridder",
+            "email": "martijn@moodles.nl"
         }
     ],
     "autoload": {
