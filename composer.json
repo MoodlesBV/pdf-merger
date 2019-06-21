@@ -2,7 +2,7 @@
     "name": "moodlesbv/pdf-merger",
     "description": "PDF File Merger for PHP7",
     "require": {
-        "setasign/fpdi-fpdf": "dev-master"
+        "setasign/fpdi-fpdf": "^2.0"
     },
     "authors": [
         {
